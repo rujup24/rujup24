@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruju Kiritkumar Patel</h1>
 <h3 align="center">Computer Science and Engineering Graduate student at Santa Clara University</h3>
-<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
+<img align="right" alt="Coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 - 🌱 I’m currently learning **VueJS, Typescript**
 
